@@ -5,5 +5,3 @@ It is designed to work completely offline and stores everything locally on the d
 
 The backend manages files and metadata using a local database or a lightweight local HTTP server. The frontend provides the user interface for browsing, organizing, and reading PDFs. Even though it runs offline, the project is structured as a full-stack application with a separate frontend and backend.
 
-Code will be hosted on GitHub so others can download and run it. Packaging options such as Docker may be explored later to simplify installation and setup.
-
